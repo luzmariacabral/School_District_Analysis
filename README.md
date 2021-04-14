@@ -51,7 +51,7 @@ Likewise for Thomas High School and their overall statistics, removing the 9th g
 ![image](Resources/top5.png)
 
 #### Top 5 Schools in District after removing THS 9th grade class
-![image](resources/top5_NaN.png)
+![image](Resources/top5_NaN.png)
 
 From the reported scores it looks like all the student at Thomas High School have the same great level of education since the removal of a whole class didn't effect their overall performance. 
 
